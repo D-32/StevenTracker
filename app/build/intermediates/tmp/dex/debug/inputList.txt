@@ -1,3 +1,0 @@
-/Users/d-32/Documents/git/StevenTracker/app/build/intermediates/classes/debug
-/Users/d-32/Documents/git/StevenTracker/app/build/intermediates/pre-dexed/debug/classes-35f655c22125b2d5969efc7aeb9cf0aae4baeb2f.jar
-/Users/d-32/Documents/git/StevenTracker/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-4bb875af1049a8f0ece283f21f810290194ff9a2.jar
